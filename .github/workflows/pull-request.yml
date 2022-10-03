@@ -11,7 +11,7 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     permissions:
-      pull-requests: read
+      statuses: write
     steps:
       - uses: aslafy-z/conventional-pr-title-action@v2
         with:
