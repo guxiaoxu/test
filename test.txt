@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hi world!
-=======
 hello world
->>>>>>> origin/master
